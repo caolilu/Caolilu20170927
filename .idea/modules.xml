@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Caolilu20170927.iml" filepath="$PROJECT_DIR$/Caolilu20170927.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.bwie.caolilu/app.iml" filepath="$PROJECT_DIR$/com.bwie.caolilu/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.bwie.caolilu/com.bwie.caolilu.iml" filepath="$PROJECT_DIR$/com.bwie.caolilu/com.bwie.caolilu.iml" />
+    </modules>
+  </component>
+</project>
